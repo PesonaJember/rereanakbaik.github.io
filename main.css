@@ -1,0 +1,80 @@
+.buttonGakMau{
+  color: whitesmoke;
+  background-color:sienna;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  font-weight: bolder;
+  width: 170px;
+  height: 90px;
+  position: absolute;
+  top: 395px;
+  left: 470px;
+  }
+
+.buttonGakMau:active{
+  left: 200px;
+  top: 200x;
+  }
+
+.buttonMau{
+  color: whitesmoke;
+  background-color:sienna;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xxx-large;
+  font-weight: bolder;
+  width: 170px;
+  height: 90px;
+  position: absolute;
+  top: 395px;
+  left: 720px;
+  }
+
+.button1{
+  color: whitesmoke;
+  background-color:sienna;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xxx-large;
+  font-weight: bolder;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 303px;
+  left: 490px;
+  }
+.button2{
+  color: whitesmoke;
+  background-color:sienna;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xx-large;
+  font-weight: bolder;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 498px;
+  left: 655px;
+  }
+.button3{
+  color: whitesmoke;
+  background-color:sienna;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xxx-large;
+  font-weight: bolder;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 290px;
+  left: 1140px;
+  }
+
+.button4{
+  color: whitesmoke;
+  background-color:sienna;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: xxx-large;
+  font-weight: bolder;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 290px;
+  left: 1140px;
+  }
